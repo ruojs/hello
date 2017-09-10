@@ -1,0 +1,12 @@
+{
+  "name": "ruo-example",
+  "version": "0.0.0",
+  "description": "ruo framework example",
+  "main": "dist/app.js",
+  "dependencies": {
+    "ruo": "^1.6.1"
+  },
+  "scripts": {
+    "start": "node dist/app.js"
+  }
+}
