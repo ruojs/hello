@@ -2,12 +2,8 @@
     "name": "ruo-example",
     "source": "src",
     "target": "dist",
-    "watch": ["config"],
     "test": {
-        "bootload": "./resource/mocha-bootload.js"
-    },
-    "cover": {
-        "bootload": "./resource/mocha-bootload-cover.js"
+        "bootload": "./src/resource/mocha-bootload.js"
     },
     "lint": {
         "include": [
