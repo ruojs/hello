@@ -12,3 +12,4 @@ produces:
   - application/json
 tags:
   - name: example
+    description: 示例
